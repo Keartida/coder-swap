@@ -10,4 +10,5 @@ A coder swap is when one programmer, coder, hacker, or whatever the title is - b
 Simple right? Well, sort of. In idea and principal, but it hasn't always been easy to find other teams, other individuals, and companies that are interested in doing this. That's what this project is all about - getting things put together to enable this by simply signing up and providing a medium in which coders can schedule a coder swap.
 
 [![Cascadian Flag](http://photos.adron.me/photos/i-Ppvt9kn/0/S/i-Ppvt9kn-S.png)](http://compositecode.com/cascadia-hacks/)
-[@CascadiaHacks](https://twitter.com/cascadiahacks)
+
+Follow the project [@CascadiaHacks](https://twitter.com/cascadiahacks).
