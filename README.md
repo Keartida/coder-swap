@@ -1,1 +1,13 @@
-# coder-swap
+# Coder Swap
+
+## Mission
+Provide an application for meeting, sharing with, and engaging other teams, learning from each other, and improving your team and other teams through coder swaps.
+
+**What exactly is a coder swap?**
+
+A coder swap is when one programmer, coder, hacker, or whatever the title is - basically an individual contributor - leaves their current team to work with another team in another company or just another department. The idea is to switch teams to learn their practices, teach your team's practices, and generally exchange ideas and knowledge. Then return to your originating team and expand your newly attained skills to others on your team.
+
+Simple right? Well, sort of. In idea and principal, but it hasn't always been easy to find other teams, other individuals, and companies that are interested in doing this. That's what this project is all about - getting things put together to enable this by simply signing up and providing a medium in which coders can schedule a coder swap.
+
+[![Cascadian Flag](http://photos.adron.me/photos/i-Ppvt9kn/0/S/i-Ppvt9kn-S.png)](http://compositecode.com/cascadia-hacks/)
+[@CascadiaHacks](https://twitter.com/cascadiahacks)
