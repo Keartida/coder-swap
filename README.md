@@ -1,4 +1,4 @@
-# Coder Swap
+![Coder Swap](http://photos.adron.me/photos/i-Jc4Lnkv/0/O/i-Jc4Lnkv.png)
 
 ## Mission
 Provide an application for meeting, sharing with, and engaging other teams, learning from each other, and improving your team and other teams through coder swaps.
